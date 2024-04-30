@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Parth Darji! 👋
 
-<!--
-**parth-darji/parth-darji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Parth's github stats](https://github-readme-stats.vercel.app/api?username=parth-darji&show_icons=true&theme=react)
+## 🚀 About Me
+I'm a 23 year old coding enthusiast with some knowledge in Software Engineering!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![medium](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=twitter&logoColor=black)](https://parthpdarji.medium.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-darji/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/iparthdarji/)
+
+
+## 🛠 Skills
+Flutter, Dart, React Native, Dart, Firebase, Supabase, iOS, Android
