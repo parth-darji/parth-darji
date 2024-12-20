@@ -6,6 +6,8 @@
 
 ![Parth's github stats](https://github-readme-stats.vercel.app/api?username=parth-darji&show_icons=true&theme=react&count_private=true)
 
+![Parth's github stats](https://github-readme-stats.vercel.app/api?username=parth-darji&show_icons=true&theme=react&count_private=true&include_all_commits=true)
+
 ## 🚀 About Me
 I'm a 23 year old coding enthusiast with some knowledge in Software Engineering!
 
