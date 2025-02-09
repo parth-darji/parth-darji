@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences in my [Resume](https://docs.google.com/document/d/10xm94MQGVVwgO5aoc4FlF7ccdY5l5uDjjes45-z1_dU/edit?tab=t.0)
 
-- ⚡ Fun fact **Building apps is my passion, and I’m turning that into a global business!**
+- ⚡ Fun fact **I think, talk, and code at the same time—collaboration and conversation fuel my development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
