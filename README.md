@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/parth-darji/](https://github.com/parth-darji/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/parth-darji?tab=repositories)
 
 - 📫 How to reach me **parthdarji2961@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/10xm94MQGVVwgO5aoc4FlF7ccdY5l5uDjjes45-z1_dU/edit?tab=t.0](https://docs.google.com/document/d/10xm94MQGVVwgO5aoc4FlF7ccdY5l5uDjjes45-z1_dU/edit?tab=t.0)
+- 📄 Know about my experiences in my [Resume](https://docs.google.com/document/d/10xm94MQGVVwgO5aoc4FlF7ccdY5l5uDjjes45-z1_dU/edit?tab=t.0)
 
 - ⚡ Fun fact **Building apps is my passion, and I’m turning that into a global business!**
 
