@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-darji&label=Profile%20views&color=0e75b6&style=flat" alt="parth-darji" /> </p>
 
-- 🔭 I’m currently working on [Silavat](https://github.com/parth-darji/silavat_app)
-
 - 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/parth-darji?tab=repositories)
