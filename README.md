@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences in my [Resume](https://docs.google.com/document/d/1YkkPzdeIVeKTryOwSu59zNYXRKaYHPOtWaao4yfbTnc)
 
-- ⚡ Fun fact **I think, talk, and code at the same time—collaboration and conversation fuel my development.**
+- ⚡ Fun fact **I think, talk, and code at the same time, collaboration and conversation fuel my development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
