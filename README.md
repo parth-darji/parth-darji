@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Darji</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Mobile App Developer</h3>
 <img align="right" alt="Coding" width="400" src="developer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-darji&label=Profile%20views&color=0e75b6&style=flat" alt="parth-darji" /> </p>
@@ -9,8 +9,6 @@
 - 📫 How to reach me **parthdarji2961@gmail.com**
 
 - 📄 Know about my experiences in my [Resume](https://docs.google.com/document/d/1YkkPzdeIVeKTryOwSu59zNYXRKaYHPOtWaao4yfbTnc)
-
-- ⚡ Fun fact **I think, talk, and code at the same time, collaboration and conversation fuel my development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
